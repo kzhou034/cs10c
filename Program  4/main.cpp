@@ -1,6 +1,6 @@
 //CS10C - Spring 2021
 //Program 4
-//Pair: Baron Fung, Kelley Zhou
+//Pair: 
 //Resource(s): Code from our Lab 8 submission, cplusplus.com
 
 #include <iostream>
