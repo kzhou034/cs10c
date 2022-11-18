@@ -1,6 +1,6 @@
 //CS10C - Spring 2021
 //Lab 5
-//Pair: Baron Fung, Kelley Zhou
+//Pair: 
 
 #include "Heap.h"
 #include <iostream>
