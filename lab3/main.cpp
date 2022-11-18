@@ -1,6 +1,6 @@
 //CS10C - Spring 2021
 //Lab 3
-//Pair: Baron Fung, Kelley Zhou
+//Pair: 
 
 #include <iostream>
 #include <ctime> //to seed time
