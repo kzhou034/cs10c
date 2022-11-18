@@ -1,6 +1,6 @@
 //CS10C - Spring 2021
 //Lab 8
-//Pair: Baron Fung, Kelley Zhou
+//Pair: 
 //Reference(s): Zybooks, Assignment 2: WordLadder.cpp
 
 #include "WordEntry.h"
