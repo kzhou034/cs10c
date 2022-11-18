@@ -1,0 +1,17 @@
+digraph G {
+Micky_Mouse[label = "Micky_Mouse, distance = 0" ];
+Micky_Mouse -> Parah_Salin
+Micky_Mouse -> Kim_Jong_Il
+Parah_Salin[label = "Parah_Salin, distance = 1" ];
+Parah_Salin -> Joe_the_Plumber
+Joe_the_Plumber[label = "Joe_the_Plumber, distance = 2" ];
+Joe_the_Plumber -> Wille_E_Coyote
+Wille_E_Coyote[label = "Wille_E_Coyote, distance = 3" ];
+Wille_E_Coyote -> Tilla_Tequila
+Tilla_Tequila[label = "Tilla_Tequila, distance = 4" ];
+Kim_Jong_Il[label = "Kim_Jong_Il, distance = 1" ];
+Kim_Jong_Il -> Scoobie_Doo
+Scoobie_Doo[label = "Scoobie_Doo, distance = 2" ];
+Scoobie_Doo -> Hugo_Chavez
+Hugo_Chavez[label = "Hugo_Chavez, distance = 3" ];
+}
