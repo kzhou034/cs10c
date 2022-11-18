@@ -1,6 +1,6 @@
 //CS10C - Spring 2021
 //Lab 7
-//Pair: Baron Fung, Kelley Zhou
+//Pair: 
 //Resource(s): Zybooks pseudocode
 
 #ifndef AVLTree_H
