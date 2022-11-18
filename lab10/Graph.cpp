@@ -1,6 +1,6 @@
 //CS10C - Spring 2021
 //Lab 10
-//Pair: Baron Fung, Kelley Zhou
+//Pair: 
 //Resource(s): Zybooks, cplusplus.com
 // https://d1b10bmlvqabco.cloudfront.net/attach/ilv1r6m8xjc64o/h7ks2ibk8jg6s3/ioki9sunvh1o/graphs.pdf 
 
