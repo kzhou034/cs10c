@@ -1,6 +1,6 @@
 //CS10C - Spring 2021
 //Lab 10
-//Pair: Baron Fung, Kelley Zhou
+//Pair: 
 //Resource(s): Zybooks, cplusplus.com
 
 #include <cstring>
