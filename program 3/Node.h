@@ -1,6 +1,6 @@
 //CS10C - Spring 2021
 //Program 3
-//Pair: Baron Fung, Kelley Zhou
+//Pair: 
 
 #ifndef __NODE_H__
 #define __NODE_H__
