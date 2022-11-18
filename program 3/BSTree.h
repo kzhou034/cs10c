@@ -1,6 +1,6 @@
 //CS10C - Spring 2021
 //Program 3
-//Pair: Baron Fung, Kelley Zhou
+//Pair: 
 
 #ifndef __BSTREE_H__
 #define __BSTREE_H__
