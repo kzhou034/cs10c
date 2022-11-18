@@ -1,6 +1,6 @@
 //CS10C - Spring 2021
 //Lab 4
-//Pair: Baron Fung, Kelley Zhou
+//Pair:
 
 #ifndef STACK_H
 #define STACK_H
